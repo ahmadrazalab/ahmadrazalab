@@ -11,6 +11,17 @@ Enthusiastic and detail-oriented software developer with a passion for creating 
 - Version Control: Git, GitHub
 - Other: [Any other relevant skills]
 
+## Websites
+ - Dockerhub
+ - gitlab
+ - netligfy
+ - BookStacks
+ - Other Websites i USe
+
+
+
+
+
 ## Projects
 
 ### Project 1: [Project Name 1]
