@@ -17,7 +17,11 @@ Enthusiastic and detail-oriented software developer with a passion for creating 
  - netligfy
  - BookStacks
  - Other Websites i USe
-
+ - confluecne
+ - wordpress
+ - blogpost
+ - medium/hashnode/etc
+ - 
 
 
 
