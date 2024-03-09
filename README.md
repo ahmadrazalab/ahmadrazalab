@@ -109,7 +109,7 @@ Bachelor of Science
 ### Bachelor of Science in Computer Science | [University Name] | [Graduation Year]
 - Relevant coursework and achievements.
 
-## Certifications
+>> Certifications
 - AWS Certified Solution Architect - Associate
 Microsoft Certified Azure Fundamentals AZ-900
 AWS Certified Cloud Practitioner
