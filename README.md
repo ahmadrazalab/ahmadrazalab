@@ -1,7 +1,3 @@
-# Ahmad Raza "DevOps"
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
