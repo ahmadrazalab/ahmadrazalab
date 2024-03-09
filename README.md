@@ -1,9 +1,11 @@
+```
 # AHMAD RAZA
-
-razahmadrsofficial@gmail.com
-linkedin.com/in/razahmadrsofficial
-gitlab.com/razahmadrsofficial
-
+```
+```
+- razahmadrsofficial@gmail.com
+- linkedin.com/in/razahmadrsofficial
+- gitlab.com/razahmadrsofficial
+```
 ## Summary
 Experienced DevOps Engineer with a robust skill set covering cloud technologies like AWS and Azure,
 containerization with Docker and Kubernetes, and expertise in CI/CD pipelines using Jenkins and GitLab.
@@ -111,10 +113,10 @@ Bachelor of Science
 
 ### Certifications
 - AWS Certified Solution Architect - Associate
-Microsoft Certified Azure Fundamentals AZ-900
-AWS Certified Cloud Practitioner
-Redhat Certified System Administrator
-Jetking Certified Network Engineer
+- Microsoft Certified Azure Fundamentals AZ-900
+- AWS Certified Cloud Practitioner
+- Redhat Certified System Administrator
+- Jetking Certified Network Engineer
 
 ### Awards and Honors
 - [Award/Honor Name] | [Year]
