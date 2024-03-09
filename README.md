@@ -47,24 +47,24 @@ VMware ESXI -6.0
 
 ## Projects
 
-### Project 1: [Project Name 1]
+>> Project 1: [Project Name 1]
 - Description: Brief description of the project.
 - Technologies: List of technologies used.
 - Demo: [Link to live demo or repository]
 
-### Project 2: [Project Name 2]
+>> Project 2: [Project Name 2]
 - Description: Brief description of the project.
 - Technologies: List of technologies used.
 - Demo: [Link to live demo or repository]
 
-### Project 3: [Project Name 3]
+>> Project 3: [Project Name 3]
 - Description: Brief description of the project.
 - Technologies: List of technologies used.
 - Demo: [Link to live demo or repository]
 
 ## Work Experience
 
-### Software Developer | [Company Name] | [Date Range] -DevOps Engineer- Aug 2023 - present
+>> Software Developer | [Company Name] | [Date Range] -DevOps Engineer- Aug 2023 - present
 - Work with cloud platforms (e.g., AWS, Azure) to deploy and manage infrastructure.
 Managing Cloud Resources like- Ec2, S3, Route53, LoadBalancer and AutoScaling.
 Optimize cloud resources for cost efficiency.
@@ -81,7 +81,7 @@ effective log analysis.
 Maintain the updated and backup of Self Hosted Jira and Confluence Server.
 Production deployment using a Selfhosted Jenkins Server using Docker.
 
-### Intern | [Company Name] | [Date Range] - IT Executive Jan 2023 to June 2023
+>> Intern | [Company Name] | [Date Range] - IT Executive Jan 2023 to June 2023
 - Handling and troubleshooting all the IT infra & and supporting 100+ users
 Proficiency with Windows (7, 8, 10), Linux (Ubuntu/CentOS), and the servers for 2012, 2016, and
 2022
@@ -109,14 +109,14 @@ Bachelor of Science
 ### Bachelor of Science in Computer Science | [University Name] | [Graduation Year]
 - Relevant coursework and achievements.
 
->> Certifications
+### Certifications
 - AWS Certified Solution Architect - Associate
 Microsoft Certified Azure Fundamentals AZ-900
 AWS Certified Cloud Practitioner
 Redhat Certified System Administrator
 Jetking Certified Network Engineer
 
-## Awards and Honors
+### Awards and Honors
 - [Award/Honor Name] | [Year]
 
 ## Contact
