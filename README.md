@@ -1,105 +1,110 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Localhost Home</title>
+    <title>Your Name - Resume</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #f9f9f9;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-            color: #333;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f8f8f8;
         }
 
         header {
-            background-color: #1a1a1a;
+            text-align: center;
+            background-color: #333;
             padding: 20px;
-            color: #fff;
-        }
-
-        h1 {
-            margin-bottom: 20px;
-            color: #ff9900;
+            color: white;
         }
 
         section {
-            padding: 40px 20px;
+            margin-top: 20px;
         }
 
-        p {
-            font-size: 18px;
-            color: #555;
+        h1,
+        h2,
+        h3 {
+            color: #333;
         }
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .contact-info {
+            margin-top: 20px;
         }
 
         footer {
-            background-color: #1a1a1a;
-            color: #fff;
-            padding: 10px 0;
+            margin-top: 20px;
+            text-align: center;
+            color: #555;
         }
     </style>
 </head>
+
 <body>
 
     <header>
-        <h1>Welcome to My UAT Server</h1>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
     </header>
 
-    <section class="container">
+    <section>
+        <h2>About Me</h2>
         <p>
-            Thanks for visiting homepage. 
-        </p>
-        <p>
-            Feel free to explore and customize this page to suit your needs.
+            Hello! I'm a passionate web developer with a strong background in front-end and back-end technologies. I enjoy
+            creating
+            innovative and user-friendly applications to solve real-world problems.
         </p>
     </section>
 
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript (ES6+)</li>
+            <li>React.js</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>SQL (MySQL, PostgreSQL)</li>
+            <li>Git</li>
+            <li>Responsive Web Design</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Project 1: Portfolio Website</a></li>
+            <li><a href="#">Project 2: Task Management App</a></li>
+            <li><a href="#">Project 3: E-commerce Platform</a></li>
+        </ul>
+    </section>
+
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: your.email@example.com</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/yourusername/">linkedin.com/in/yourusername</a></li>
+            <li>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></li>
+            <li>Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a></li>
+        </ul>
+    </section>
+
     <footer>
-        <p>&copy; 2023 AHMAD RAZA (DEVOPS)</p>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
     </footer>
 
 </body>
-</html>
-
-
-</body>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <title>System Information</title>
-</head>
-<body>
-    <div class="container">
-        <h1><i class="fas fa-server"></i> Hostname</h1>
-        <p id="hostname">UAT SERVER</p>
-        <p id="hostname">Loading...</p>
-        
-        <h1><i class="fas fa-globe"></i> IP Address</h1>
-        <p id="ip">Loading...</p>
-        
-        <h1><i class="far fa-clock"></i> Date and Time</h1>
-        <p id="datetime">Loading...</p>
-        
-        <h1><i class="fas fa-clock"></i> Uptime</h1>
-        <p id="uptime">Loading...</p>
-        
-        <h1><i class="fab fa-internet-explorer"></i> Browser Info</h1>
-        <p id="browser">Loading...</p>
-    </div>
-    
-    <script src="script.js"></script>
-</body>
-</html>
 
 </html>
