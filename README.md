@@ -1,15 +1,16 @@
-# Ahmad Raza
+<h1 align="center">Hi 👋, I'm Ahmad Raza </h1>
+<h3 align="center">A Passionate DevOps Engineer </h3>
+
+<h3 align="left">Contacts:</h3>
 
 - **Email:** razahmadrsofficial@gmail.com
-- **Phone:** +91-808-127-8300
 - **LinkedIn:** [linkedin.com/in/razahmadrsofficial](https://linkedin.com/in/razahmadrsofficial)
-- **GitLab:** [gitlab.com/razahmadrsofficial](https://gitlab.com/razahmadrsofficial)
 
-## Summary
+<h3 align="left"> ReadME </h3>
 
 Experienced DevOps Engineer with a robust skill set covering cloud technologies like AWS and Azure, containerization with Docker and Kubernetes, and expertise in CI/CD pipelines using Jenkins and GitLab. Proficient in optimizing infrastructure with tools like Elastic Stack (ELK), Zabbix, and Cloudwatch alarms. Adept at streamlining production deployments, ensuring secure and scalable solutions for efficient software delivery.
 
-## Skills
+<h3 align="left">Skills and Tools:</h3>
 
 - Cloud Platform (AWS, Azure, Digital Ocean)
   - EC2, CloudFront, S3, Load Balancer, AutoScaling, RDS
