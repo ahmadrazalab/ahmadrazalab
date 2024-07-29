@@ -58,7 +58,7 @@
 <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrazalab&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazalab&layout=compact&theme=radical&langs_count=8&hide=less,scss" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazalab&layout=compact&theme=radical&langs_count=8&hide=less,scss" alt="Top Languages" /> -->
 
 
 <!-- 
@@ -70,9 +70,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" />
 </p> -->
 
-<h2>🏆 Achievements</h2>
+<!-- <h2>🏆 Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=ahmadrazalab&theme=radical" alt="GitHub Trophies" />
-
+ -->
 
 
 ## TOP Projects 🛠️
