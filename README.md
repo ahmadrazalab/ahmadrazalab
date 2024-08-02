@@ -48,7 +48,7 @@
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/ahmadrazalab">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadrazalab&theme=react-dark" alt="Contribution Graph" />
   </a>
 </p>
