@@ -1,8 +1,10 @@
-
+<!-- 
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">A Passionate DevOps Engineer 🚀</h3>
+<h3 align="center">A Passionate DevOps Engineer 🚀</h3> -->
 
 
+<!-- ![alt text](image.png) -->
+![alt text](image-2.png)
 ![Profile Views](https://komarev.com/ghpvc/?username=hashir-mohd&color=blueviolet)
 
 
