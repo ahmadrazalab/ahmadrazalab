@@ -95,7 +95,6 @@
 
 Explore our open-source DevOps support organization and the valuable resources we offer:
 
-- **[Dockerizeit](https://dockerizeit.cloud)** - Our OpenSource platform for OPS support.
 - **[DevOps Docs](https://docs.ahmadraza.in)** - Comprehensive guides and tutorials.
 - **[Services](https://services.ahmadraza.in)** - Connect us for freelance support and services. 
 
