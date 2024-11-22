@@ -60,25 +60,27 @@
 
 // Let's check if the pipeline is running smoothly
 if (isPipelineHealthy) {
-    console.log("✨ Pipeline is green! Time to optimize for ultimate efficiency.");
-    // Continuous improvement: because good isn’t enough!
-    while (systemPerformance < optimalState) {
-        systemPerformance++; // Increment the performance metrics
-        console.log(`Tuning... System performance now at ${systemPerformance}% 🔧📈`);
+    console.log("✨ Build Pipeline is green! Time to optimize Deployment efficiency.");
+    
+    // Continuous optimization: because production deserves the best!  
+    while (infraEfficiency < 100) {
+        infraEfficiency++; // Increment infrastructure efficiency
+        console.log(`Enhancing... Infra efficiency now at ${infraEfficiency}% 🌐📈`);
     }
-    console.log("🏆 Infrastructure is now a fortress of excellence! 💪");
+    console.log("🏆 EKS Cluster is healthy and workloads are stable. 🚀");
 } else {
-    console.log("⚠️ Pipeline issues detected! Let’s troubleshoot and fix this ASAP. 🔍");
+    console.log("⚠️ Node issues detected! Let’s troubleshoot and fix this ASAP. 🔍");
     debugPipeline();
 }
 
 
-//  The DevOps Engineer’s loop 🔄
-while (systemsAreRunning) {
-    monitor(); // Observe metrics 📊
-    optimize(); // Automate what can be automated 🤖
-    deploy(); // Ship changes 🚀
-    console.log("Repeat! Because in DevOps, we’re always improving. 🔄");
+//  The DevOps Lifecycle with Kubernetes  🔄
+while (isInfrastructureLive) {
+    monitorMetrics(); // Monitor Pods, Nodes, and Cluster health 📊
+    scalePods(); // Adjust resources dynamically based on traffic needs 📦  
+    applyTerraform(); // Infrastructure as code for consistency and repeatability 🛠️  
+    deployServices(); // Rolling updates for seamless production releases 🚢 
+    console.log("Repeat! Because in Kubernetes, the loop is the process. 🔄");
 }
 
 // Remember, Great DevOps isn’t just a job; it’s a lifestyle. 🚦✨
