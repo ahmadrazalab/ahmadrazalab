@@ -89,7 +89,7 @@ while (isInfrastructureLive) {
 ```
 
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 Activity Graph</h2>
 <p align="center">
   <a href="https://github.com/ahmadrazalab">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadrazalab&theme=react-dark" alt="Contribution Graph" />
@@ -103,7 +103,7 @@ while (isInfrastructureLive) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" /> --> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazalab&layout=compact&theme=radical&langs_count=8&hide=less,scss" alt="Top Languages" /> -->
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 Activity Stats</h2>
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrazalab&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" width="425" />
@@ -141,7 +141,7 @@ while (isInfrastructureLive) {
 
 Explore our open-source DevOps support organization and the valuable resources we offer:
 
-- **[DevOps Init](https://docs.ahmadraza.in)** - Comprehensive guides and tutorials.
+- **[DevOps Init](https://docs.ahmadraza.in)** - DevOps Handbook.
 - **[Services](https://services.ahmadraza.in)** - Connect us for freelance support and services. 
 
 
