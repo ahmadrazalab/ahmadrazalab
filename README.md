@@ -4,8 +4,10 @@
 
 
 <!-- ![alt text](image.png) -->
-![alt text](image-2.png)
+<img width="100%" src="./line.gif">
 
+![alt text](image-2.png)
+<img width="100%" src="./line.gif">
 
 
 
@@ -51,6 +53,39 @@
 </p>
 
 
+<h2 align="center">🛠 About</h2>
+
+```TypeScript
+// DevOps Life: Automate, Monitor, Optimize 🚀
+
+// Let's check if the pipeline is running smoothly
+if (isPipelineHealthy) {
+    console.log("✨ Pipeline is green! Time to optimize for ultimate efficiency.");
+    // Continuous improvement: because good isn’t enough!
+    while (systemPerformance < optimalState) {
+        systemPerformance++; // Increment the performance metrics
+        console.log(`Tuning... System performance now at ${systemPerformance}% 🔧📈`);
+    }
+    console.log("🏆 Infrastructure is now a fortress of excellence! 💪");
+} else {
+    console.log("⚠️ Pipeline issues detected! Let’s troubleshoot and fix this ASAP. 🔍");
+    debugPipeline();
+}
+
+
+//  The DevOps Engineer’s loop 🔄
+while (systemsAreRunning) {
+    monitor(); // Observe metrics 📊
+    optimize(); // Automate what can be automated 🤖
+    deploy(); // Ship changes 🚀
+    console.log("Repeat! Because in DevOps, we’re always improving. 🔄");
+}
+
+// Remember, Great DevOps isn’t just a job; it’s a lifestyle. 🚦✨
+// - Created with ❤️ by Ahmad Raza (@ahmadrazalab)
+
+```
+
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
@@ -61,10 +96,15 @@
 
 
 
-<h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrazalab&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" /> --> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazalab&layout=compact&theme=radical&langs_count=8&hide=less,scss" alt="Top Languages" /> -->
+
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadrazalab&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" width="400" />
+
 
 
 <!-- 
@@ -77,33 +117,27 @@
 </p> -->
 
 <!-- <h2>🏆 Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadrazalab&theme=radical" alt="GitHub Trophies" />
- -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadrazalab&theme=radical" alt="GitHub Trophies" /> -->
 
 
-## TOP Projects 🛠️
 
-- [**Docs Platform**](https://docs.ahmadraza.in)
-- [**AWS S3 Navigator**](https://github.com/ahmadrazalab/AWS-S3-Explorer)
-- [**Kubernetes-as-Terraform**](https://github.com)
-- [**Terraform-AWS-Stack**](https://github.com/ahmadrazalab/enterprize-tf-lab)
-- [**Kafka-AS-Docker**](https://github.com/ahmadrazalab/Fork-kafka-as-docker-django-y)
+## 🔖 Featured repositories:
+
+[![chat-socket-DevSecOps-K8-MultiCloud](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=chat-socket-DevSecOps-K8-MultiCloud)](https://github.com/ahmadrazalab/chat-socket-DevSecOps-K8-MultiCloud)
+[![kubernetes_ecomapp_DR-OPS](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=kubernetes_ecomapp_DR-OPS)](https://github.com/ahmadrazalab/kubernetes_ecomapp_DR-OPS)
+[![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=InfraCraft)](https://github.com/ahmadrazalab/InfraCraft)
 
 
+---
 
 ## Our Sites & Services 🌐
 
 Explore our open-source DevOps support organization and the valuable resources we offer:
 
-- **[DevOps Docs](https://docs.ahmadraza.in)** - Comprehensive guides and tutorials.
+- **[DevOps Init](https://docs.ahmadraza.in)** - Comprehensive guides and tutorials.
 - **[Services](https://services.ahmadraza.in)** - Connect us for freelance support and services. 
 
 
-
-<!-- ## Videos 📹
-
-<VideoEmbed src="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" />
- -->
 
 
 <h2 align="center">📫 Connect with me</h2>
@@ -111,16 +145,15 @@ Explore our open-source DevOps support organization and the valuable resources w
   <a href="https://linkedin.com/in/razahmadrsofficial">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourprofile">
+  <!-- <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  </a> -->
   <a href="https://ahmadraza.in">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
 </p>
 
 
-> Thank you for visiting my profile! Feel free to connect with me and explore my projects. 🚀
+## _Thank you for visiting my profile! If you liked my profile, Feel free to connect with me and explore ⭐ my projects._
 
----
-
+<img width="100%" src="./line.gif">
