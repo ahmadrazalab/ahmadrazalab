@@ -104,7 +104,7 @@ while (systemsAreRunning) {
 <h2>📊 GitHub Stats</h2>
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrazalab&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" width="430" />
 </div>
 
 
