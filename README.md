@@ -128,7 +128,9 @@ while (systemsAreRunning) {
 
 [![chat-socket-DevSecOps-K8-MultiCloud](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=chat-socket-DevSecOps-K8-MultiCloud)](https://github.com/ahmadrazalab/chat-socket-DevSecOps-K8-MultiCloud)
 [![kubernetes_ecomapp_DR-OPS](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=kubernetes_ecomapp_DR-OPS)](https://github.com/ahmadrazalab/kubernetes_ecomapp_DR-OPS)
-[![Awesome Talents (Worldwide Talents)](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=InfraCraft)](https://github.com/ahmadrazalab/InfraCraft)
+[![InfraCraft)](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=InfraCraft)](https://github.com/ahmadrazalab/InfraCraft)
+[![aws-cli-jenZ-prod)](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=aws-cli-jenZ-prod)](https://github.com/ahmadrazalab/aws-cli-jenZ-prod)
+
 
 
 ---
