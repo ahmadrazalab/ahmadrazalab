@@ -11,21 +11,10 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=hashir-mohd&color=blueviolet)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=hashir-mohd&color=blueviolet) -->
 
 
-<p align="center">
-  <a href="mailto:razahmadrsofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-razahmadrsofficial@gmail.com-blue?logo=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/razahmadrsofficial">
-    <img src="https://img.shields.io/badge/LinkedIn-razahmadrsofficial-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://ahmadraza.in">
-    <img src="https://img.shields.io/badge/Portfolio-ahmadraza.in-orange?logo=link" alt="Portfolio" />
-  </a>
-  
-</p>
+
 
 
 <!-- 
@@ -142,7 +131,10 @@ while (isInfrastructureLive) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" /> --> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrazalab&layout=compact&theme=radical&langs_count=8&hide=less,scss" alt="Top Languages" /> -->
 
-<h2>📊 Activity Stats</h2>
+<!-- <h2>📊 Activity Stats</h2> -->
+<h2 align="center">📊 Activity Stats</h2>
+
+
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrazalab&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" width="425" />
@@ -165,7 +157,9 @@ while (isInfrastructureLive) {
 
 
 
-## 🔖 Featured repositories:
+<!-- ## 🔖 Featured repositories: -->
+<h2 align="center">🔖 Featured repositories:</h2>
+
 
 [![chat-socket-DevSecOps-K8-MultiCloud](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=chat-socket-DevSecOps-K8-MultiCloud)](https://github.com/ahmadrazalab/chat-socket-DevSecOps-K8-MultiCloud)
 [![kubernetes_ecomapp_DR-OPS](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=kubernetes_ecomapp_DR-OPS)](https://github.com/ahmadrazalab/kubernetes_ecomapp_DR-OPS)
@@ -174,32 +168,63 @@ while (isInfrastructureLive) {
 
 
 
----
 
-## Our Sites & Services 🌐
+
+<!-- ## Our Sites & Services 🌐 -->
+<h2 align="center">Our Sites & Services 🌐</h2>
 
 Explore our open-source DevOps support organization and the valuable resources we offer:
 
+- **[Portfolio](https://ahmadraza.in)** - Online Portfolio.
 - **[DevOps Init](https://docs.ahmadraza.in)** - DevOps Handbook.
 - **[Services](https://services.ahmadraza.in)** - Connect us for freelance support and services. 
 
 
 
 
-<h2 align="center">📫 Connect with me</h2>
+<!-- <h2 align="center">📫 Connect with me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/razahmadrsofficial">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://twitter.com/yourprofile">
+  <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a> -->
+  </a>
   <a href="https://ahmadraza.in">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
+</p> -->
+
+
+<!-- <p align="center">
+  <a href="mailto:razahmadrsofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-razahmadrsofficial@gmail.com-blue?logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/razahmadrsofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-razahmadrsofficial-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://ahmadraza.in">
+    <img src="https://img.shields.io/badge/Portfolio-ahmadraza.in-orange?logo=link" alt="Portfolio" />
+  </a>
+</p> -->
+
+<h2 align="center">📫 Connect with me</h2>
+
+<p align="center">
+  <a href="mailto:razahmadrsofficial@gmail.com">
+    <img src="./connect/gmail-svgrepo-com.svg" alt="Email" width="60" height="60" />
+  </a>
+  <a href="https://linkedin.com/in/razahmadrsofficial">
+    <img src="./connect/linkedin-svgrepo-com.svg" alt="LinkedIn" width="60" height="60" />
+  </a>
+  <a href="https://services.ahmadraza.in">
+    <img src="./connect/work-is-money-svgrepo-com.svg" alt="Services" width="60" height="60" />
+  </a>
 </p>
 
-
-## _Thank you for visiting my profile! If you liked my profile, Feel free to connect with me and explore ⭐ my projects._
+## _Thank you for visiting my profile! If you liked my profile, Feel free to connect with me and explore ⭐ my projects `ahmadraza.in`._
 
 <img width="100%" src="./line.gif">
+
+
+
