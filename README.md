@@ -28,7 +28,7 @@
 </p>
 
 
-
+<!-- 
 <h2 align="center">🛠 Skills</h2>
 <p align="center">
 
@@ -50,7 +50,46 @@
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+</p> -->
+
+
+<h2 align="center">🛠 Skills</h2>
+<p align="center">
+
+  <img src="./images/aws-svgrepo-com.svg" alt="AWS" width="40" height="40" />
+  <img src="./images/azure-svgrepo-com.svg" alt="Azure" width="40" height="40" />
+  <img src="./images/digital-ocean-svgrepo-com.svg" alt="Digital Ocean" width="40" height="40" />
+  <img src="./images/jenkins-svgrepo-com.svg" alt="Jenkins" width="40" height="40" />
+  <img src="./images/gitlab-svgrepo-com.svg" alt="GitLab CI" width="40" height="40" />
+  <img src="./images/docker-svgrepo-com.svg" alt="Docker" width="40" height="40" />
+  <img src="./images/kubernetes-svgrepo-com.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="./images/bash-icon-svgrepo-com.svg" alt="Bash" width="40" height="40" />
+  <img src="./images/nginx-svgrepo-com.svg" alt="Nginx" width="40" height="40" />
+  <img src="./images/github-142-svgrepo-com.svg" alt="GitHub" width="40" height="40" />
+  <img src="./images/grafana-svgrepo-com.svg" alt="Grafana" width="40" height="40" />
+  <img src="./images/prometheus-svgrepo-com.svg" alt="Prometheus" width="40" height="40" />
+  <img src="./images/linux-svgrepo-com.svg" alt="Linux" width="40" height="40" />
+  <img src="./images/containerd.svg" alt="Containerd" width="40" height="40" />
+  <img src="./images/terraform-icon-svgrepo-com.svg" alt="Terraform" width="40" height="40" />
+  <img src="./images/vscode-svgrepo-com.svg" alt="VSCode" width="40" height="40" />
+  <img src="./images/hashicorp-svgrepo-com.svg" alt="HashiCorp" width="40" height="40" />
+  <img src="./images/apache-svgrepo-com.svg" alt="Apache" width="40" height="40" />
+  <img src="./images/cloudflare-svgrepo-com.svg" alt="Cloudflare" width="40" height="40" />
+  <img src="./images/ubuntu-svgrepo-com.svg" alt="Ubuntu" width="40" height="40" />
+  <img src="./images/aws-lambda-svgrepo-com.svg" alt="AWS Lambda" width="40" height="40" />
+  <img src="./images/e5e1b43-grafana-loki.png" alt="Grafana Loki" width="40" height="40" />
+  <img src="./images/4407171-middle.png" alt="DevOps Skills" width="40" height="40" />
 </p>
+
+
+
+
+
+
+
+
+
+
 
 
 <h2 align="center">🛠 About</h2>
