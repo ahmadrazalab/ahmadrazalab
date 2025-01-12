@@ -141,7 +141,7 @@ while (isInfrastructureLive) {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadrazalab&theme=radical" alt="GitHub Streak" width="425" />
 </div>
 
-
+<a href="https://app.daily.dev/ahmadrazalab"><img src="https://api.daily.dev/devcards/v2/t4eFM01avvKsCPbnkA2G4.png?r=w6o&type=wide" width="652" alt="AHMAD RAZA's Dev Card"/></a>
 
 
 <!-- 
