@@ -164,8 +164,8 @@ while (isInfrastructureLive) {
 
 [![chat-socket-DevSecOps-K8-MultiCloud](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=chat-socket-DevSecOps-K8-MultiCloud)](https://github.com/ahmadrazalab/chat-socket-DevSecOps-K8-MultiCloud)
 [![kubernetes_ecomapp_DR-OPS](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=kubernetes_ecomapp_DR-OPS)](https://github.com/ahmadrazalab/kubernetes_ecomapp_DR-OPS)
-[![InfraCraft)](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=InfraCraft)](https://github.com/ahmadrazalab/InfraCraft)
 [![aws-cli-jenZ-prod)](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=aws-cli-jenZ-prod)](https://github.com/ahmadrazalab/aws-cli-jenZ-prod)
+[![aws-cli-jenZ-prod)](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=terraform-playground)](https://github.com/ahmadrazalab?tab=repositories&q=terraform&type=&language=&sort=)
 
 
 
@@ -215,10 +215,10 @@ Explore our open-source DevOps support organization and the valuable resources w
   <a href="mailto:razahmadrsofficial@gmail.com">
     <img src="./connect/gmail-svgrepo-com.svg" alt="Email" width="60" height="60" />
   </a>
-  <a href="https://linkedin.com/in/razahmadrsofficial">
+  <a href="https://linkedin.com/in/ahmad-raza-devops">
     <img src="./connect/linkedin-svgrepo-com.svg" alt="LinkedIn" width="60" height="60" />
   </a>
-  <a href="https://services.ahmadraza.in">
+  <a href="https://ahmadraza.in">
     <img src="./connect/work-is-money-svgrepo-com.svg" alt="Services" width="60" height="60" />
   </a>
 </p>
