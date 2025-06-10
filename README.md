@@ -159,7 +159,7 @@ while (isInfrastructureLive) {
 
 
 <!-- ## 🔖 Featured repositories: -->
-<h2 align="center">🔖 Featured repositories:</h2>
+<!-- <h2 align="center">🔖 Featured repositories:</h2>
 
 
 [![chat-socket-DevSecOps-K8-MultiCloud](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=chat-socket-DevSecOps-K8-MultiCloud)](https://github.com/ahmadrazalab/chat-socket-DevSecOps-K8-MultiCloud)
@@ -168,7 +168,7 @@ while (isInfrastructureLive) {
 [![terraform-playground)](https://github-readme-stats.vercel.app/api/pin/?username=ahmadrazalab&repo=terraform-cloudflare-dns)](https://github.com/ahmadrazalab?tab=repositories&q=terraform&type=&language=&sort=)
 
 
-
+ -->
 
 
 <!-- ## Our Sites & Services 🌐 -->
